@@ -4,6 +4,21 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
+//Set Implementation using array
+//TDD pair programming
+
+//Test MySet
+//requirements:
+
+//Sprint 1
+//MySet should be be empty if no elements are added
+//MySet should be be NOT empty if elements are added
+//MySet should be able to add elements
+//MySet should not add duplicate elements
+
+//Sprint 2
+//MySet should be able to remove an element
+
 public class MySetTest {
 
     @Test
